@@ -1,0 +1,24 @@
+In this project I implemented the most common SQL queries using Jupiter notebook:
+
+•	Connect SQL database with Python
+•	Show the resent_grad table limited by 5 rows
+•	Show the resent_grad table limited by 10 rows
+•	Show Majors with ShareWomen > 0.5
+•	Select majors with women in the minority.
+•	Show majors with female majority and median salary > 500
+•	Show median >= 10000 OR unemployed people <= 1000
+•	Show Engineering where sharewomen >= 0.5 , unemployment_rate < 0.051
+•	Show Majors order by ShareWomen in Descending order
+•	Show Major category in Engineering or Physical Science ordered by Unemployment rate by Ascending order
+•	Count number of majors
+•	Show Engineering Major with lowest median salary.
+•	Show the aggregating such as average of total, minimum of men and maximum of women
+•	Show the number of roles and the highest unemployment rate.
+•	Show unique values of majors, major category and major code using DISTINCT()
+•	Show difference between 25th and 75th percentile of qualitive spread.
+•	Show Major categories and its average of ShareWomen grouped by major category  
+•	Show major category with its employed percentage.
+•	Show major category filtered by low wage
+•	Show first 10 major category and ShareWomen data rounded up to 4
+•	Show average of college jobs divided by average of total and Rounded up to 3   
+•	Show major categories and use CAST to calculate division of women and total   
